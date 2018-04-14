@@ -1,13 +1,15 @@
 {
-  "name": "atomic-monokai-pro-syntax",
+  "name": "mono-pro-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A rough attempt at the Monokai Pro syntax coloring",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "monokai",
+    "pro"
   ],
-  "repository": "https://github.com/atom/atomic-monokai-pro-syntax",
+  "repository": "https://github.com/Sepshun/mono-pro-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
