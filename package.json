@@ -1,7 +1,7 @@
 {
   "name": "mono-pro-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A rough attempt at the Monokai Pro syntax coloring",
   "keywords": [
     "syntax",
